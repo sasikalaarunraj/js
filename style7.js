@@ -1,0 +1,10 @@
+count=0
+number=1
+while(number<=100){
+if(100%number==0)
+{
+count++
+}
+number++
+}
+console.log(count)
